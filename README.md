@@ -174,7 +174,7 @@
         }
         
         .side-panel {
-            width: 250px;
+            width: 600px;
             background-color: white;
             padding: 20px;
             border-left: 1px solid #eee;
