@@ -26,7 +26,7 @@
         }
         
         .app-container {
-            max-width: 1600px;
+            max-width: 16000px;
             margin: 0 auto;
             padding: 20px;
             height: calc(100vh - 40px);
@@ -174,7 +174,7 @@
         }
         
         .side-panel {
-            width: 600px;
+            width: 200px;
             background-color: white;
             padding: 20px;
             border-left: 1px solid #eee;
